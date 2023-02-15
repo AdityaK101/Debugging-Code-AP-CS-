@@ -57,5 +57,3 @@ class PythagoreanTheorem {
     System.out.println("c^2 = a^2 + b^2 :  + c*c + " = " + a*a + " + " + b*b);
     
 }
-}
-
